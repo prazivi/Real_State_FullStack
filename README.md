@@ -32,7 +32,7 @@ The project is built using the following technologies:
 To run Homzy on your computer, follow these steps:
 
 1. Clone this repository to your local machine:
-git clone https://github.com/your-username/Homzy-Real-Estate.git
+git clone https://github.com/prazivi/Homzy-Real-Estate.git
 
 
 2. Navigate to the project directory:
