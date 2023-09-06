@@ -1,3 +1,4 @@
+@author:- Pranav Gupta
 # Homzy - A Real Estate Website
 
 ![Dashboard](https://github.com/prazivi/Real_State_FullStack/blob/master/Project%20snip/DashBoard.JPG)
@@ -65,5 +66,7 @@ Contributions to this project are welcome. If you wish to contribute, please fol
 ## Reporting Issues
 
 If you encounter any issues while using the Homzy website or have any suggestions for improvement, please open an issue on the GitHub repository. Your feedback is valuable to us, and we will address any reported issues promptly.
+
+
 
 
